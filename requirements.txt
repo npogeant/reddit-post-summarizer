@@ -1,0 +1,8 @@
+transformers
+torch
+rouge_score
+datasets
+sentencepiece
+evaluate
+wandb
+gradio

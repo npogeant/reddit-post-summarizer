@@ -1,0 +1,9 @@
+venv/*
+parsing_analysis/*
+.env
+.vscode
+*.pycss
+/interface/artifacts/
+interface/cache/
+interface/wandb/
+interface/flagged/
